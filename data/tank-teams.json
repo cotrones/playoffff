@@ -2,2148 +2,580 @@
   "statusCode": 200,
   "body": [
     {
-      "teamAbv": "BUF",
-      "teamCity": "Buffalo",
-      "currentStreak": {
-        "result": "W",
-        "length": "5"
-      },
-      "loss": "6",
-      "teamName": "Bills",
-      "nflComLogo1": "https://res.cloudinary.com/nflleague/image/private/f_auto/league/giphcy6ie9mxbnldntsf",
-      "teamID": "4",
-      "tie": "0",
-      "division": "East",
-      "conferenceAbv": "AFC",
-      "pa": "311",
-      "pf": "451",
-      "espnLogo1": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/buf.png",
-      "wins": "11",
-      "conference": "American Football Conference",
-      "teamStats": {
-        "Rushing": {
-          "rushYds": "2212",
-          "carries": "512",
-          "rushTD": "22"
-        },
-        "Kicking": {
-          "fgAttempts": "29",
-          "fgMade": "24",
-          "xpMade": "49",
-          "fgYds": "0",
-          "kickYards": "0",
-          "xpAttempts": "50"
-        },
-        "Passing": {
-          "passAttempts": "579",
-          "passTD": "29",
-          "passYds": "4306",
-          "int": "18",
-          "passCompletions": "385"
-        },
-        "Punting": {
-          "puntYds": "2334",
-          "punts": "51",
-          "puntsin20": "24",
-          "puntTouchBacks": "3"
-        },
-        "Receiving": {
-          "receptions": "385",
-          "recTD": "29",
-          "targets": "545",
-          "recYds": "4306"
-        },
-        "Defense": {
-          "totalTackles": "1054",
-          "fumblesLost": "10",
-          "defTD": "3",
-          "fumbles": "20",
-          "fumblesRecovered": "19",
-          "soloTackles": "719",
-          "defensiveInterceptions": "18",
-          "qbHits": "117",
-          "tfl": "86",
-          "passDeflections": "79",
-          "sacks": "54"
-        }
-      }
-    },
-    {
-      "teamAbv": "MIA",
-      "teamCity": "Miami",
-      "currentStreak": {
-        "result": "L",
-        "length": "2"
-      },
-      "loss": "6",
-      "teamName": "Dolphins",
-      "nflComLogo1": "https://res.cloudinary.com/nflleague/image/private/f_auto/league/lits6p8ycthy9to70bnt",
-      "teamID": "20",
-      "tie": "0",
-      "division": "East",
-      "conferenceAbv": "AFC",
-      "pa": "391",
-      "pf": "496",
-      "espnLogo1": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/mia.png",
-      "wins": "11",
-      "conference": "American Football Conference",
-      "teamStats": {
-        "Rushing": {
-          "rushYds": "2308",
-          "carries": "456",
-          "rushTD": "27"
-        },
-        "Kicking": {
-          "fgAttempts": "28",
-          "fgMade": "24",
-          "xpMade": "58",
-          "fgYds": "0",
-          "kickYards": "0",
-          "xpAttempts": "59"
-        },
-        "Passing": {
-          "passAttempts": "566",
-          "passTD": "30",
-          "passYds": "4698",
-          "int": "15",
-          "passCompletions": "393"
-        },
-        "Punting": {
-          "puntYds": "2424",
-          "punts": "53",
-          "puntsin20": "20",
-          "puntTouchBacks": "3"
-        },
-        "Receiving": {
-          "receptions": "393",
-          "recTD": "30",
-          "targets": "549",
-          "recYds": "4698"
-        },
-        "Defense": {
-          "totalTackles": "1088",
-          "fumblesLost": "10",
-          "defTD": "4",
-          "fumbles": "24",
-          "fumblesRecovered": "25",
-          "soloTackles": "711",
-          "defensiveInterceptions": "15",
-          "qbHits": "140",
-          "tfl": "79",
-          "passDeflections": "81",
-          "sacks": "56"
-        }
-      }
-    },
-    {
-      "teamAbv": "NYJ",
-      "teamCity": "New York",
-      "currentStreak": {
-        "result": "W",
-        "length": "1"
-      },
-      "loss": "10",
-      "teamName": "Jets",
-      "nflComLogo1": "https://static.www.nfl.com/image/private/f_auto/league/ekijosiae96gektbo4iw",
-      "teamID": "25",
-      "tie": "0",
-      "division": "East",
-      "conferenceAbv": "AFC",
-      "pa": "355",
-      "pf": "268",
-      "espnLogo1": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/nyj.png",
-      "wins": "7",
-      "conference": "American Football Conference",
-      "teamStats": {
-        "Rushing": {
-          "rushYds": "1647",
-          "carries": "388",
-          "rushTD": "7"
-        },
-        "Kicking": {
-          "fgAttempts": "39",
-          "fgMade": "36",
-          "xpMade": "16",
-          "fgYds": "0",
-          "kickYards": "0",
-          "xpAttempts": "17"
-        },
-        "Passing": {
-          "passAttempts": "601",
-          "passTD": "11",
-          "passYds": "3373",
-          "int": "15",
-          "passCompletions": "356"
-        },
-        "Punting": {
-          "puntYds": "4831",
-          "punts": "99",
-          "puntsin20": "36",
-          "puntTouchBacks": "8"
-        },
-        "Receiving": {
-          "receptions": "356",
-          "recTD": "11",
-          "targets": "563",
-          "recYds": "3373"
-        },
-        "Defense": {
-          "totalTackles": "1145",
-          "fumblesLost": "18",
-          "defTD": "4",
-          "fumbles": "32",
-          "fumblesRecovered": "22",
-          "soloTackles": "737",
-          "defensiveInterceptions": "17",
-          "qbHits": "107",
-          "tfl": "99",
-          "passDeflections": "91",
-          "sacks": "48"
-        }
-      }
-    },
-    {
-      "teamAbv": "NE",
-      "teamCity": "New England",
-      "currentStreak": {
-        "result": "L",
-        "length": "2"
-      },
-      "loss": "13",
-      "teamName": "Patriots",
-      "nflComLogo1": "https://res.cloudinary.com/nflleague/image/private/f_auto/league/moyfxx3dq5pio4aiftnc",
-      "teamID": "22",
-      "tie": "0",
-      "division": "East",
-      "conferenceAbv": "AFC",
-      "pa": "366",
-      "pf": "236",
-      "espnLogo1": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/ne.png",
-      "wins": "4",
-      "conference": "American Football Conference",
-      "teamStats": {
-        "Rushing": {
-          "rushYds": "1627",
-          "carries": "415",
-          "rushTD": "9"
-        },
-        "Kicking": {
-          "fgAttempts": "25",
-          "fgMade": "16",
-          "xpMade": "24",
-          "fgYds": "0",
-          "kickYards": "0",
-          "xpAttempts": "25"
-        },
-        "Passing": {
-          "passAttempts": "557",
-          "passTD": "16",
-          "passYds": "3392",
-          "int": "21",
-          "passCompletions": "351"
-        },
-        "Punting": {
-          "puntYds": "4598",
-          "punts": "98",
-          "puntsin20": "38",
-          "puntTouchBacks": "8"
-        },
-        "Receiving": {
-          "receptions": "351",
-          "recTD": "16",
-          "targets": "541",
-          "recYds": "3392"
-        },
-        "Defense": {
-          "totalTackles": "1163",
-          "fumblesLost": "8",
-          "defTD": "2",
-          "fumbles": "19",
-          "fumblesRecovered": "15",
-          "soloTackles": "742",
-          "defensiveInterceptions": "10",
-          "qbHits": "78",
-          "tfl": "80",
-          "passDeflections": "66",
-          "sacks": "36"
-        }
-      }
-    },
-    {
-      "teamAbv": "BAL",
-      "teamCity": "Baltimore",
-      "currentStreak": {
-        "result": "L",
-        "length": "1"
-      },
-      "loss": "4",
-      "teamName": "Ravens",
-      "nflComLogo1": "https://res.cloudinary.com/nflleague/image/private/f_auto/league/ucsdijmddsqcj1i9tddd",
-      "teamID": "3",
-      "tie": "0",
-      "division": "North",
-      "conferenceAbv": "AFC",
-      "pa": "280",
-      "pf": "483",
-      "espnLogo1": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/bal.png",
-      "wins": "13",
-      "conference": "American Football Conference",
-      "teamStats": {
-        "Rushing": {
-          "rushYds": "2661",
-          "carries": "541",
-          "rushTD": "26"
-        },
-        "Kicking": {
-          "fgAttempts": "37",
-          "fgMade": "32",
-          "xpMade": "51",
-          "fgYds": "0",
-          "kickYards": "0",
-          "xpAttempts": "52"
-        },
-        "Passing": {
-          "passAttempts": "494",
-          "passTD": "27",
-          "passYds": "3881",
-          "int": "7",
-          "passCompletions": "328"
-        },
-        "Punting": {
-          "puntYds": "3158",
-          "punts": "66",
-          "puntsin20": "28",
-          "puntTouchBacks": "5"
-        },
-        "Receiving": {
-          "receptions": "328",
-          "recTD": "27",
-          "targets": "476",
-          "recYds": "3881"
-        },
-        "Defense": {
-          "totalTackles": "1107",
-          "fumblesLost": "12",
-          "defTD": "2",
-          "fumbles": "23",
-          "fumblesRecovered": "21",
-          "soloTackles": "729",
-          "defensiveInterceptions": "18",
-          "qbHits": "117",
-          "tfl": "89",
-          "passDeflections": "91",
-          "sacks": "60"
-        }
-      }
-    },
-    {
-      "teamAbv": "CLE",
-      "teamCity": "Cleveland",
-      "currentStreak": {
-        "result": "L",
-        "length": "1"
-      },
-      "loss": "6",
-      "teamName": "Browns",
-      "nflComLogo1": "https://static.www.nfl.com/image/private/f_auto/league/fgbn8acp4opvyxk13dcy",
-      "teamID": "8",
-      "tie": "0",
-      "division": "North",
-      "conferenceAbv": "AFC",
-      "pa": "362",
-      "pf": "396",
-      "espnLogo1": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/cle.png",
-      "wins": "11",
-      "conference": "American Football Conference",
-      "teamStats": {
-        "Rushing": {
-          "rushYds": "2017",
-          "carries": "518",
-          "rushTD": "15"
-        },
-        "Kicking": {
-          "fgAttempts": "37",
-          "fgMade": "34",
-          "xpMade": "30",
-          "fgYds": "0",
-          "kickYards": "0",
-          "xpAttempts": "33"
-        },
-        "Passing": {
-          "passAttempts": "624",
-          "passTD": "24",
-          "passYds": "4011",
-          "int": "23",
-          "passCompletions": "355"
-        },
-        "Punting": {
-          "puntYds": "4449",
-          "punts": "90",
-          "puntsin20": "31",
-          "puntTouchBacks": "9"
-        },
-        "Receiving": {
-          "receptions": "355",
-          "recTD": "24",
-          "targets": "597",
-          "recYds": "4011"
-        },
-        "Defense": {
-          "totalTackles": "999",
-          "fumblesLost": "14",
-          "defTD": "4",
-          "fumbles": "27",
-          "fumblesRecovered": "21",
-          "soloTackles": "702",
-          "defensiveInterceptions": "18",
-          "qbHits": "108",
-          "tfl": "113",
-          "passDeflections": "92",
-          "sacks": "49"
-        }
-      }
-    },
-    {
-      "teamAbv": "PIT",
-      "teamCity": "Pittsburgh",
-      "currentStreak": {
-        "result": "W",
-        "length": "3"
-      },
-      "loss": "7",
-      "teamName": "Steelers",
-      "nflComLogo1": "https://res.cloudinary.com/nflleague/image/private/f_auto/league/xujg9t3t4u5nmjgr54wx",
-      "teamID": "26",
-      "tie": "0",
-      "division": "North",
-      "conferenceAbv": "AFC",
-      "pa": "324",
-      "pf": "304",
-      "espnLogo1": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/pit.png",
-      "wins": "10",
-      "conference": "American Football Conference",
-      "teamStats": {
-        "Rushing": {
-          "rushYds": "2010",
-          "carries": "487",
-          "rushTD": "16"
-        },
-        "Kicking": {
-          "fgAttempts": "31",
-          "fgMade": "29",
-          "xpMade": "27",
-          "fgYds": "0",
-          "kickYards": "0",
-          "xpAttempts": "28"
-        },
-        "Passing": {
-          "passAttempts": "506",
-          "passTD": "13",
-          "passYds": "3421",
-          "int": "9",
-          "passCompletions": "323"
-        },
-        "Punting": {
-          "puntYds": "3914",
-          "punts": "89",
-          "puntsin20": "33",
-          "puntTouchBacks": "8"
-        },
-        "Receiving": {
-          "receptions": "323",
-          "recTD": "13",
-          "targets": "484",
-          "recYds": "3421"
-        },
-        "Defense": {
-          "totalTackles": "1086",
-          "fumblesLost": "7",
-          "defTD": "2",
-          "fumbles": "21",
-          "fumblesRecovered": "21",
-          "soloTackles": "731",
-          "defensiveInterceptions": "16",
-          "qbHits": "107",
-          "tfl": "83",
-          "passDeflections": "80",
-          "sacks": "47"
-        }
-      }
-    },
-    {
-      "teamAbv": "CIN",
-      "teamCity": "Cincinnati",
-      "currentStreak": {
-        "result": "W",
-        "length": "1"
-      },
-      "loss": "8",
-      "teamName": "Bengals",
-      "nflComLogo1": "https://res.cloudinary.com/nflleague/image/private/f_auto/league/okxpteoliyayufypqalq",
-      "teamID": "7",
-      "tie": "0",
-      "division": "North",
-      "conferenceAbv": "AFC",
-      "pa": "384",
-      "pf": "366",
-      "espnLogo1": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/cin.png",
-      "wins": "9",
-      "conference": "American Football Conference",
-      "teamStats": {
-        "Rushing": {
-          "rushYds": "1527",
-          "carries": "383",
-          "rushTD": "12"
-        },
-        "Kicking": {
-          "fgAttempts": "31",
-          "fgMade": "26",
-          "xpMade": "40",
-          "fgYds": "0",
-          "kickYards": "0",
-          "xpAttempts": "40"
-        },
-        "Passing": {
-          "passAttempts": "615",
-          "passTD": "27",
-          "passYds": "4257",
-          "int": "14",
-          "passCompletions": "420"
-        },
-        "Punting": {
-          "puntYds": "3369",
-          "punts": "76",
-          "puntsin20": "20",
-          "puntTouchBacks": "5"
-        },
-        "Receiving": {
-          "receptions": "420",
-          "recTD": "27",
-          "targets": "592",
-          "recYds": "4257"
-        },
-        "Defense": {
-          "totalTackles": "1112",
-          "fumblesLost": "2",
-          "defTD": "2",
-          "fumbles": "10",
-          "fumblesRecovered": "16",
-          "soloTackles": "700",
-          "defensiveInterceptions": "17",
-          "qbHits": "109",
-          "tfl": "75",
-          "passDeflections": "74",
-          "sacks": "44"
-        }
-      }
-    },
-    {
-      "teamAbv": "HOU",
-      "teamCity": "Houston",
-      "currentStreak": {
-        "result": "W",
-        "length": "2"
-      },
-      "loss": "7",
-      "teamName": "Texans",
-      "nflComLogo1": "https://static.www.nfl.com/image/private/f_auto/league/bpx88i8nw4nnabuq0oob",
-      "teamID": "13",
-      "tie": "0",
-      "division": "South",
-      "conferenceAbv": "AFC",
-      "pa": "353",
-      "pf": "377",
-      "espnLogo1": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/hou.png",
-      "wins": "10",
-      "conference": "American Football Conference",
-      "teamStats": {
-        "Rushing": {
-          "rushYds": "1647",
-          "carries": "444",
-          "rushTD": "10"
-        },
-        "Kicking": {
-          "fgAttempts": "38",
-          "fgMade": "34",
-          "xpMade": "31",
-          "fgYds": "0",
-          "kickYards": "0",
-          "xpAttempts": "33"
-        },
-        "Passing": {
-          "passAttempts": "592",
-          "passTD": "27",
-          "passYds": "4578",
-          "int": "8",
-          "passCompletions": "372"
-        },
-        "Punting": {
-          "puntYds": "3735",
-          "punts": "80",
-          "puntsin20": "32",
-          "puntTouchBacks": "5"
-        },
-        "Receiving": {
-          "receptions": "372",
-          "recTD": "27",
-          "targets": "566",
-          "recYds": "4578"
-        },
-        "Defense": {
-          "totalTackles": "1192",
-          "fumblesLost": "6",
-          "defTD": "3",
-          "fumbles": "17",
-          "fumblesRecovered": "19",
-          "soloTackles": "744",
-          "defensiveInterceptions": "14",
-          "qbHits": "112",
-          "tfl": "105",
-          "passDeflections": "70",
-          "sacks": "46"
-        }
-      }
-    },
-    {
-      "teamAbv": "JAX",
-      "teamCity": "Jacksonville",
-      "currentStreak": {
-        "result": "L",
-        "length": "1"
-      },
-      "loss": "8",
-      "teamName": "Jaguars",
-      "nflComLogo1": "https://res.cloudinary.com/nflleague/image/private/f_auto/league/qycbib6ivrm9dqaexryk",
-      "teamID": "15",
-      "tie": "0",
-      "division": "South",
-      "conferenceAbv": "AFC",
-      "pa": "371",
-      "pf": "377",
-      "espnLogo1": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/jax.png",
-      "wins": "9",
-      "conference": "American Football Conference",
-      "teamStats": {
-        "Rushing": {
-          "rushYds": "1646",
-          "carries": "453",
-          "rushTD": "17"
-        },
-        "Kicking": {
-          "fgAttempts": "37",
-          "fgMade": "30",
-          "xpMade": "35",
-          "fgYds": "0",
-          "kickYards": "0",
-          "xpAttempts": "35"
-        },
-        "Passing": {
-          "passAttempts": "620",
-          "passTD": "22",
-          "passYds": "4377",
-          "int": "14",
-          "passCompletions": "412"
-        },
-        "Punting": {
-          "puntYds": "2893",
-          "punts": "61",
-          "puntsin20": "29",
-          "puntTouchBacks": "4"
-        },
-        "Receiving": {
-          "receptions": "412",
-          "recTD": "22",
-          "targets": "607",
-          "recYds": "4377"
-        },
-        "Defense": {
-          "totalTackles": "1076",
-          "fumblesLost": "16",
-          "defTD": "2",
-          "fumbles": "28",
-          "fumblesRecovered": "20",
-          "soloTackles": "705",
-          "defensiveInterceptions": "16",
-          "qbHits": "107",
-          "tfl": "73",
-          "passDeflections": "84",
-          "sacks": "40"
-        }
-      }
-    },
-    {
-      "teamAbv": "IND",
-      "teamCity": "Indianapolis",
-      "currentStreak": {
-        "result": "L",
-        "length": "1"
-      },
-      "loss": "8",
-      "teamName": "Colts",
-      "nflComLogo1": "https://static.www.nfl.com/image/private/f_auto/league/ketwqeuschqzjsllbid5",
-      "teamID": "14",
-      "tie": "0",
-      "division": "South",
-      "conferenceAbv": "AFC",
-      "pa": "415",
-      "pf": "396",
-      "espnLogo1": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/ind.png",
-      "wins": "9",
-      "conference": "American Football Conference",
-      "teamStats": {
-        "Rushing": {
-          "rushYds": "2059",
-          "carries": "479",
-          "rushTD": "19"
-        },
-        "Kicking": {
-          "fgAttempts": "41",
-          "fgMade": "33",
-          "xpMade": "35",
-          "fgYds": "0",
-          "kickYards": "0",
-          "xpAttempts": "36"
-        },
-        "Passing": {
-          "passAttempts": "574",
-          "passTD": "18",
-          "passYds": "3882",
-          "int": "10",
-          "passCompletions": "355"
-        },
-        "Punting": {
-          "puntYds": "3281",
-          "punts": "68",
-          "puntsin20": "21",
-          "puntTouchBacks": "0"
-        },
-        "Receiving": {
-          "receptions": "355",
-          "recTD": "18",
-          "targets": "546",
-          "recYds": "3882"
-        },
-        "Defense": {
-          "totalTackles": "1204",
-          "fumblesLost": "12",
-          "defTD": "5",
-          "fumbles": "21",
-          "fumblesRecovered": "16",
-          "soloTackles": "797",
-          "defensiveInterceptions": "15",
-          "qbHits": "108",
-          "tfl": "94",
-          "passDeflections": "69",
-          "sacks": "51"
-        }
-      }
-    },
-    {
-      "teamAbv": "TEN",
-      "teamCity": "Tennessee",
-      "currentStreak": {
-        "result": "W",
-        "length": "1"
-      },
-      "loss": "11",
-      "teamName": "Titans",
-      "nflComLogo1": "https://static.www.nfl.com/image/private/f_auto/league/pln44vuzugjgipyidsre",
-      "teamID": "31",
-      "tie": "0",
-      "division": "South",
-      "conferenceAbv": "AFC",
-      "pa": "367",
-      "pf": "305",
-      "espnLogo1": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/ten.png",
-      "wins": "6",
-      "conference": "American Football Conference",
-      "teamStats": {
-        "Rushing": {
-          "rushYds": "1846",
-          "carries": "444",
-          "rushTD": "16"
-        },
-        "Kicking": {
-          "fgAttempts": "30",
-          "fgMade": "29",
-          "xpMade": "28",
-          "fgYds": "0",
-          "kickYards": "0",
-          "xpAttempts": "30"
-        },
-        "Passing": {
-          "passAttempts": "494",
-          "passTD": "14",
-          "passYds": "3512",
-          "int": "11",
-          "passCompletions": "304"
-        },
-        "Punting": {
-          "puntYds": "4008",
-          "punts": "79",
-          "puntsin20": "36",
-          "puntTouchBacks": "12"
-        },
-        "Receiving": {
-          "receptions": "304",
-          "recTD": "14",
-          "targets": "478",
-          "recYds": "3512"
-        },
-        "Defense": {
-          "totalTackles": "1220",
-          "fumblesLost": "9",
-          "defTD": "1",
-          "fumbles": "19",
-          "fumblesRecovered": "15",
-          "soloTackles": "779",
-          "defensiveInterceptions": "6",
-          "qbHits": "84",
-          "tfl": "90",
-          "passDeflections": "55",
-          "sacks": "45"
-        }
-      }
-    },
-    {
-      "teamAbv": "KC",
-      "teamCity": "Kansas City",
-      "currentStreak": {
-        "result": "W",
-        "length": "2"
-      },
-      "loss": "6",
-      "teamName": "Chiefs",
-      "nflComLogo1": "https://res.cloudinary.com/nflleague/image/private/f_auto/league/ujshjqvmnxce8m4obmvs",
-      "teamID": "16",
-      "tie": "0",
-      "division": "West",
-      "conferenceAbv": "AFC",
-      "pa": "294",
-      "pf": "371",
-      "espnLogo1": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/kc.png",
-      "wins": "11",
-      "conference": "American Football Conference",
-      "teamStats": {
-        "Rushing": {
-          "rushYds": "1784",
-          "carries": "417",
-          "rushTD": "9"
-        },
-        "Kicking": {
-          "fgAttempts": "35",
-          "fgMade": "33",
-          "xpMade": "38",
-          "fgYds": "0",
-          "kickYards": "0",
-          "xpAttempts": "38"
-        },
-        "Passing": {
-          "passAttempts": "635",
-          "passTD": "28",
-          "passYds": "4383",
-          "int": "17",
-          "passCompletions": "421"
-        },
-        "Punting": {
-          "puntYds": "2776",
-          "punts": "59",
-          "puntsin20": "20",
-          "puntTouchBacks": "5"
-        },
-        "Receiving": {
-          "receptions": "421",
-          "recTD": "28",
-          "targets": "599",
-          "recYds": "4383"
-        },
-        "Defense": {
-          "totalTackles": "1024",
-          "fumblesLost": "11",
-          "defTD": "2",
-          "fumbles": "20",
-          "fumblesRecovered": "17",
-          "soloTackles": "715",
-          "defensiveInterceptions": "8",
-          "qbHits": "125",
-          "tfl": "87",
-          "passDeflections": "72",
-          "sacks": "57"
-        }
-      }
-    },
-    {
-      "teamAbv": "LV",
-      "teamCity": "Las Vegas",
-      "currentStreak": {
-        "result": "W",
-        "length": "1"
-      },
-      "loss": "9",
-      "teamName": "Raiders",
-      "nflComLogo1": "https://static.www.nfl.com/image/private/f_auto/league/gzcojbzcyjgubgyb6xf2",
-      "teamID": "17",
-      "tie": "0",
-      "division": "West",
-      "conferenceAbv": "AFC",
-      "pa": "331",
-      "pf": "332",
-      "espnLogo1": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/lv.png",
-      "wins": "8",
-      "conference": "American Football Conference",
-      "teamStats": {
-        "Rushing": {
-          "rushYds": "1542",
-          "carries": "413",
-          "rushTD": "11"
-        },
-        "Kicking": {
-          "fgAttempts": "30",
-          "fgMade": "26",
-          "xpMade": "32",
-          "fgYds": "0",
-          "kickYards": "0",
-          "xpAttempts": "32"
-        },
-        "Passing": {
-          "passAttempts": "557",
-          "passTD": "20",
-          "passYds": "3666",
-          "int": "18",
-          "passCompletions": "348"
-        },
-        "Punting": {
-          "puntYds": "3783",
-          "punts": "75",
-          "puntsin20": "34",
-          "puntTouchBacks": "6"
-        },
-        "Receiving": {
-          "receptions": "348",
-          "recTD": "20",
-          "targets": "531",
-          "recYds": "3666"
-        },
-        "Defense": {
-          "totalTackles": "1174",
-          "fumblesLost": "6",
-          "defTD": "5",
-          "fumbles": "14",
-          "fumblesRecovered": "16",
-          "soloTackles": "749",
-          "defensiveInterceptions": "13",
-          "qbHits": "89",
-          "tfl": "82",
-          "passDeflections": "56",
-          "sacks": "46"
-        }
-      }
-    },
-    {
-      "teamAbv": "DEN",
-      "teamCity": "Denver",
-      "currentStreak": {
-        "result": "L",
-        "length": "1"
-      },
-      "loss": "9",
-      "teamName": "Broncos",
-      "nflComLogo1": "https://res.cloudinary.com/nflleague/image/private/f_auto/league/t0p7m5cjdjy18rnzzqbx",
-      "teamID": "10",
-      "tie": "0",
-      "division": "West",
-      "conferenceAbv": "AFC",
-      "pa": "413",
-      "pf": "357",
-      "espnLogo1": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/den.png",
-      "wins": "8",
-      "conference": "American Football Conference",
-      "teamStats": {
-        "Rushing": {
-          "rushYds": "1810",
-          "carries": "451",
-          "rushTD": "8"
-        },
-        "Kicking": {
-          "fgAttempts": "34",
-          "fgMade": "30",
-          "xpMade": "29",
-          "fgYds": "0",
-          "kickYards": "0",
-          "xpAttempts": "31"
-        },
-        "Passing": {
-          "passAttempts": "513",
-          "passTD": "28",
-          "passYds": "3566",
-          "int": "9",
-          "passCompletions": "337"
-        },
-        "Punting": {
-          "puntYds": "3659",
-          "punts": "79",
-          "puntsin20": "27",
-          "puntTouchBacks": "6"
-        },
-        "Receiving": {
-          "receptions": "337",
-          "recTD": "28",
-          "targets": "477",
-          "recYds": "3566"
-        },
-        "Defense": {
-          "totalTackles": "1123",
-          "fumblesLost": "13",
-          "defTD": "2",
-          "fumbles": "20",
-          "fumblesRecovered": "19",
-          "soloTackles": "723",
-          "defensiveInterceptions": "11",
-          "qbHits": "100",
-          "tfl": "71",
-          "passDeflections": "62",
-          "sacks": "42"
-        }
-      }
-    },
-    {
-      "teamAbv": "LAC",
-      "teamCity": "Los Angeles",
-      "currentStreak": {
-        "result": "L",
-        "length": "5"
-      },
-      "loss": "12",
-      "teamName": "Chargers",
-      "nflComLogo1": "https://static.www.nfl.com/image/private/f_auto/league/dhfidtn8jrumakbogeu4",
-      "teamID": "18",
-      "tie": "0",
-      "division": "West",
-      "conferenceAbv": "AFC",
-      "pa": "398",
-      "pf": "346",
-      "espnLogo1": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/lac.png",
-      "wins": "5",
-      "conference": "American Football Conference",
-      "teamStats": {
-        "Rushing": {
-          "rushYds": "1642",
-          "carries": "431",
-          "rushTD": "11"
-        },
-        "Kicking": {
-          "fgAttempts": "33",
-          "fgMade": "31",
-          "xpMade": "35",
-          "fgYds": "0",
-          "kickYards": "0",
-          "xpAttempts": "35"
-        },
-        "Passing": {
-          "passAttempts": "632",
-          "passTD": "24",
-          "passYds": "4312",
-          "int": "8",
-          "passCompletions": "409"
-        },
-        "Punting": {
-          "puntYds": "3475",
-          "punts": "75",
-          "puntsin20": "30",
-          "puntTouchBacks": "4"
-        },
-        "Receiving": {
-          "receptions": "409",
-          "recTD": "24",
-          "targets": "614",
-          "recYds": "4312"
-        },
-        "Defense": {
-          "totalTackles": "1104",
-          "fumblesLost": "13",
-          "defTD": "1",
-          "fumbles": "25",
-          "fumblesRecovered": "22",
-          "soloTackles": "759",
-          "defensiveInterceptions": "9",
-          "qbHits": "87",
-          "tfl": "82",
-          "passDeflections": "83",
-          "sacks": "48"
-        }
-      }
-    },
-    {
-      "teamAbv": "DAL",
-      "teamCity": "Dallas",
-      "currentStreak": {
-        "result": "W",
-        "length": "2"
-      },
-      "loss": "5",
-      "teamName": "Cowboys",
-      "nflComLogo1": "https://static.www.nfl.com/image/private/f_auto/league/ieid8hoygzdlmzo0tnf6",
-      "teamID": "9",
-      "tie": "0",
-      "division": "East",
-      "conferenceAbv": "NFC",
-      "pa": "315",
-      "pf": "509",
-      "espnLogo1": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/dal.png",
-      "wins": "12",
-      "conference": "National Football Conference",
-      "teamStats": {
-        "Rushing": {
-          "rushYds": "1920",
-          "carries": "468",
-          "rushTD": "14"
-        },
-        "Kicking": {
-          "fgAttempts": "38",
-          "fgMade": "36",
-          "xpMade": "49",
-          "fgYds": "0",
-          "kickYards": "0",
-          "xpAttempts": "52"
-        },
-        "Passing": {
-          "passAttempts": "614",
-          "passTD": "36",
-          "passYds": "4660",
-          "int": "10",
-          "passCompletions": "428"
-        },
-        "Punting": {
-          "puntYds": "2262",
-          "punts": "44",
-          "puntsin20": "17",
-          "puntTouchBacks": "2"
-        },
-        "Receiving": {
-          "receptions": "428",
-          "recTD": "36",
-          "targets": "605",
-          "recYds": "4660"
-        },
-        "Defense": {
-          "totalTackles": "1045",
-          "fumblesLost": "6",
-          "defTD": "7",
-          "fumbles": "13",
-          "fumblesRecovered": "15",
-          "soloTackles": "660",
-          "defensiveInterceptions": "17",
-          "qbHits": "98",
-          "tfl": "83",
-          "passDeflections": "74",
-          "sacks": "46"
-        }
-      }
-    },
-    {
-      "teamAbv": "PHI",
-      "teamCity": "Philadelphia",
-      "currentStreak": {
-        "result": "L",
-        "length": "2"
-      },
-      "loss": "6",
-      "teamName": "Eagles",
-      "nflComLogo1": "https://res.cloudinary.com/nflleague/image/private/f_auto/league/puhrqgj71gobgdkdo6uq",
-      "teamID": "27",
-      "tie": "0",
-      "division": "East",
-      "conferenceAbv": "NFC",
-      "pa": "428",
-      "pf": "433",
-      "espnLogo1": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/phi.png",
-      "wins": "11",
-      "conference": "National Football Conference",
-      "teamStats": {
-        "Rushing": {
-          "rushYds": "2190",
-          "carries": "510",
-          "rushTD": "22"
-        },
-        "Kicking": {
-          "fgAttempts": "32",
-          "fgMade": "30",
-          "xpMade": "45",
-          "fgYds": "0",
-          "kickYards": "0",
-          "xpAttempts": "46"
-        },
-        "Passing": {
-          "passAttempts": "563",
-          "passTD": "24",
-          "passYds": "4067",
-          "int": "16",
-          "passCompletions": "369"
-        },
-        "Punting": {
-          "puntYds": "2537",
-          "punts": "52",
-          "puntsin20": "17",
-          "puntTouchBacks": "1"
-        },
-        "Receiving": {
-          "receptions": "369",
-          "recTD": "24",
-          "targets": "525",
-          "recYds": "4067"
-        },
-        "Defense": {
-          "totalTackles": "1089",
-          "fumblesLost": "12",
-          "defTD": "3",
-          "fumbles": "22",
-          "fumblesRecovered": "17",
-          "soloTackles": "722",
-          "defensiveInterceptions": "9",
-          "qbHits": "106",
-          "tfl": "73",
-          "passDeflections": "74",
-          "sacks": "43"
-        }
-      }
-    },
-    {
-      "teamAbv": "NYG",
-      "teamCity": "New York",
-      "currentStreak": {
-        "result": "W",
-        "length": "1"
-      },
-      "loss": "11",
-      "teamName": "Giants",
-      "nflComLogo1": "https://res.cloudinary.com/nflleague/image/private/f_auto/league/t6mhdmgizi6qhndh8b9p",
-      "teamID": "24",
-      "tie": "0",
-      "division": "East",
-      "conferenceAbv": "NFC",
-      "pa": "407",
-      "pf": "266",
-      "espnLogo1": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/nyg.png",
-      "wins": "6",
-      "conference": "National Football Conference",
-      "teamStats": {
-        "Rushing": {
-          "rushYds": "1874",
-          "carries": "454",
-          "rushTD": "10"
-        },
-        "Kicking": {
-          "fgAttempts": "31",
-          "fgMade": "22",
-          "xpMade": "24",
-          "fgYds": "0",
-          "kickYards": "0",
-          "xpAttempts": "25"
-        },
-        "Passing": {
-          "passAttempts": "518",
-          "passTD": "15",
-          "passYds": "3351",
-          "int": "12",
-          "passCompletions": "338"
-        },
-        "Punting": {
-          "puntYds": "4372",
-          "punts": "95",
-          "puntsin20": "35",
-          "puntTouchBacks": "4"
-        },
-        "Receiving": {
-          "receptions": "338",
-          "recTD": "15",
-          "targets": "485",
-          "recYds": "3351"
-        },
-        "Defense": {
-          "totalTackles": "1111",
-          "fumblesLost": "7",
-          "defTD": "4",
-          "fumbles": "24",
-          "fumblesRecovered": "29",
-          "soloTackles": "734",
-          "defensiveInterceptions": "18",
-          "qbHits": "83",
-          "tfl": "76",
-          "passDeflections": "81",
-          "sacks": "34"
-        }
-      }
-    },
-    {
-      "teamAbv": "WSH",
-      "teamCity": "Washington",
-      "currentStreak": {
-        "result": "L",
-        "length": "8"
-      },
-      "loss": "13",
-      "teamName": "Commanders",
-      "nflComLogo1": "https://static.www.nfl.com/image/private/f_auto/league/xymxwrxtyj9fhaemhdyd",
-      "teamID": "32",
-      "tie": "0",
-      "division": "East",
-      "conferenceAbv": "NFC",
-      "pa": "518",
-      "pf": "329",
-      "espnLogo1": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/wsh.png",
-      "wins": "4",
-      "conference": "National Football Conference",
-      "teamStats": {
-        "Rushing": {
-          "rushYds": "1592",
-          "carries": "359",
-          "rushTD": "14"
-        },
-        "Kicking": {
-          "fgAttempts": "24",
-          "fgMade": "19",
-          "xpMade": "32",
-          "fgYds": "0",
-          "kickYards": "0",
-          "xpAttempts": "35"
-        },
-        "Passing": {
-          "passAttempts": "636",
-          "passTD": "24",
-          "passYds": "4174",
-          "int": "21",
-          "passCompletions": "407"
-        },
-        "Punting": {
-          "puntYds": "3361",
-          "punts": "73",
-          "puntsin20": "30",
-          "puntTouchBacks": "2"
-        },
-        "Receiving": {
-          "receptions": "407",
-          "recTD": "24",
-          "targets": "601",
-          "recYds": "4174"
-        },
-        "Defense": {
-          "totalTackles": "1167",
-          "fumblesLost": "11",
-          "defTD": "1",
-          "fumbles": "20",
-          "fumblesRecovered": "17",
-          "soloTackles": "741",
-          "defensiveInterceptions": "8",
-          "qbHits": "84",
-          "tfl": "86",
-          "passDeflections": "78",
-          "sacks": "39"
-        }
-      }
-    },
-    {
-      "teamAbv": "DET",
-      "teamCity": "Detroit",
-      "currentStreak": {
-        "result": "W",
-        "length": "1"
-      },
-      "loss": "5",
-      "teamName": "Lions",
-      "nflComLogo1": "https://res.cloudinary.com/nflleague/image/private/f_auto/league/ocvxwnapdvwevupe4tpr",
-      "teamID": "11",
-      "tie": "0",
-      "division": "North",
-      "conferenceAbv": "NFC",
-      "pa": "395",
-      "pf": "461",
-      "espnLogo1": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/det.png",
-      "wins": "12",
-      "conference": "National Football Conference",
-      "teamStats": {
-        "Rushing": {
-          "rushYds": "2311",
-          "carries": "500",
-          "rushTD": "27"
-        },
-        "Kicking": {
-          "fgAttempts": "21",
-          "fgMade": "19",
-          "xpMade": "48",
-          "fgYds": "0",
-          "kickYards": "0",
-          "xpAttempts": "52"
-        },
-        "Passing": {
-          "passAttempts": "606",
-          "passTD": "30",
-          "passYds": "4606",
-          "int": "12",
-          "passCompletions": "408"
-        },
-        "Punting": {
-          "puntYds": "2646",
-          "punts": "57",
-          "puntsin20": "26",
-          "puntTouchBacks": "5"
-        },
-        "Receiving": {
-          "receptions": "408",
-          "recTD": "30",
-          "targets": "574",
-          "recYds": "4606"
-        },
-        "Defense": {
-          "totalTackles": "1034",
-          "fumblesLost": "11",
-          "defTD": "1",
-          "fumbles": "18",
-          "fumblesRecovered": "11",
-          "soloTackles": "690",
-          "defensiveInterceptions": "16",
-          "qbHits": "116",
-          "tfl": "81",
-          "passDeflections": "79",
-          "sacks": "41"
-        }
-      }
-    },
-    {
-      "teamAbv": "GB",
-      "teamCity": "Green Bay",
-      "currentStreak": {
-        "result": "W",
-        "length": "3"
-      },
-      "loss": "8",
-      "teamName": "Packers",
-      "nflComLogo1": "https://res.cloudinary.com/nflleague/image/private/f_auto/league/gppfvr7n8gljgjaqux2x",
-      "teamID": "12",
-      "tie": "0",
-      "division": "North",
-      "conferenceAbv": "NFC",
-      "pa": "350",
-      "pf": "383",
-      "espnLogo1": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/gb.png",
-      "wins": "9",
-      "conference": "National Football Conference",
-      "teamStats": {
-        "Rushing": {
-          "rushYds": "1905",
-          "carries": "441",
-          "rushTD": "10"
-        },
-        "Kicking": {
-          "fgAttempts": "33",
-          "fgMade": "27",
-          "xpMade": "34",
-          "fgYds": "0",
-          "kickYards": "0",
-          "xpAttempts": "39"
-        },
-        "Passing": {
-          "passAttempts": "581",
-          "passTD": "32",
-          "passYds": "4210",
-          "int": "11",
-          "passCompletions": "374"
-        },
-        "Punting": {
-          "puntYds": "2634",
-          "punts": "57",
-          "puntsin20": "18",
-          "puntTouchBacks": "5"
-        },
-        "Receiving": {
-          "receptions": "374",
-          "recTD": "32",
-          "targets": "561",
-          "recYds": "4210"
-        },
-        "Defense": {
-          "totalTackles": "1158",
-          "fumblesLost": "7",
-          "defTD": "2",
-          "fumbles": "23",
-          "fumblesRecovered": "25",
-          "soloTackles": "740",
-          "defensiveInterceptions": "7",
-          "qbHits": "108",
-          "tfl": "76",
-          "passDeflections": "68",
-          "sacks": "45"
-        }
-      }
-    },
-    {
-      "teamAbv": "MIN",
-      "teamCity": "Minnesota",
-      "currentStreak": {
-        "result": "L",
-        "length": "4"
-      },
-      "loss": "10",
-      "teamName": "Vikings",
-      "nflComLogo1": "https://res.cloudinary.com/nflleague/image/private/f_auto/league/teguylrnqqmfcwxvcmmz",
-      "teamID": "21",
-      "tie": "0",
-      "division": "North",
-      "conferenceAbv": "NFC",
-      "pa": "362",
-      "pf": "344",
-      "espnLogo1": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/min.png",
-      "wins": "7",
-      "conference": "National Football Conference",
-      "teamStats": {
-        "Rushing": {
-          "rushYds": "1553",
-          "carries": "393",
-          "rushTD": "7"
-        },
-        "Kicking": {
-          "fgAttempts": "30",
-          "fgMade": "24",
-          "xpMade": "36",
-          "fgYds": "0",
-          "kickYards": "0",
-          "xpAttempts": "38"
-        },
-        "Passing": {
-          "passAttempts": "631",
-          "passTD": "30",
-          "passYds": "4700",
-          "int": "19",
-          "passCompletions": "424"
-        },
-        "Punting": {
-          "puntYds": "2887",
-          "punts": "60",
-          "puntsin20": "16",
-          "puntTouchBacks": "7"
-        },
-        "Receiving": {
-          "receptions": "424",
-          "recTD": "30",
-          "targets": "606",
-          "recYds": "4700"
-        },
-        "Defense": {
-          "totalTackles": "1202",
-          "fumblesLost": "15",
-          "defTD": "2",
-          "fumbles": "26",
-          "fumblesRecovered": "21",
-          "soloTackles": "761",
-          "defensiveInterceptions": "11",
-          "qbHits": "91",
-          "tfl": "70",
-          "passDeflections": "67",
-          "sacks": "43"
-        }
-      }
-    },
-    {
-      "teamAbv": "CHI",
-      "teamCity": "Chicago",
-      "currentStreak": {
-        "result": "L",
-        "length": "1"
-      },
-      "loss": "10",
-      "teamName": "Bears",
-      "nflComLogo1": "https://static.www.nfl.com/image/private/f_auto/league/wb3ehpt7xhkstyaxwjl1",
-      "teamID": "6",
-      "tie": "0",
-      "division": "North",
-      "conferenceAbv": "NFC",
-      "pa": "379",
-      "pf": "360",
-      "espnLogo1": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/chi.png",
-      "wins": "7",
-      "conference": "National Football Conference",
-      "teamStats": {
-        "Rushing": {
-          "rushYds": "2399",
-          "carries": "534",
-          "rushTD": "16"
-        },
-        "Kicking": {
-          "fgAttempts": "38",
-          "fgMade": "35",
-          "xpMade": "31",
-          "fgYds": "0",
-          "kickYards": "0",
-          "xpAttempts": "33"
-        },
-        "Passing": {
-          "passAttempts": "513",
-          "passTD": "19",
-          "passYds": "3421",
-          "int": "15",
-          "passCompletions": "321"
-        },
-        "Punting": {
-          "puntYds": "3088",
-          "punts": "67",
-          "puntsin20": "18",
-          "puntTouchBacks": "8"
-        },
-        "Receiving": {
-          "receptions": "321",
-          "recTD": "19",
-          "targets": "477",
-          "recYds": "3421"
-        },
-        "Defense": {
-          "totalTackles": "1067",
-          "fumblesLost": "10",
-          "defTD": "2",
-          "fumbles": "24",
-          "fumblesRecovered": "16",
-          "soloTackles": "692",
-          "defensiveInterceptions": "22",
-          "qbHits": "92",
-          "tfl": "72",
-          "passDeflections": "83",
-          "sacks": "30"
-        }
-      }
-    },
-    {
-      "teamAbv": "TB",
-      "teamCity": "Tampa Bay",
-      "currentStreak": {
-        "result": "W",
-        "length": "1"
-      },
-      "loss": "8",
-      "teamName": "Buccaneers",
-      "nflComLogo1": "https://static.www.nfl.com/image/private/f_auto/league/v8uqiualryypwqgvwcih",
-      "teamID": "30",
-      "tie": "0",
-      "division": "South",
-      "conferenceAbv": "NFC",
-      "pa": "325",
-      "pf": "348",
-      "espnLogo1": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/tb.png",
-      "wins": "9",
-      "conference": "National Football Conference",
-      "teamStats": {
-        "Rushing": {
-          "rushYds": "1509",
-          "carries": "439",
-          "rushTD": "8"
-        },
-        "Kicking": {
-          "fgAttempts": "31",
-          "fgMade": "29",
-          "xpMade": "33",
-          "fgYds": "0",
-          "kickYards": "0",
-          "xpAttempts": "33"
-        },
-        "Passing": {
-          "passAttempts": "568",
-          "passTD": "28",
-          "passYds": "4044",
-          "int": "10",
-          "passCompletions": "364"
-        },
-        "Punting": {
-          "puntYds": "3854",
-          "punts": "77",
-          "puntsin20": "26",
-          "puntTouchBacks": "9"
-        },
-        "Receiving": {
-          "receptions": "364",
-          "recTD": "28",
-          "targets": "550",
-          "recYds": "4044"
-        },
-        "Defense": {
-          "totalTackles": "1149",
-          "fumblesLost": "8",
-          "defTD": "1",
-          "fumbles": "21",
-          "fumblesRecovered": "24",
-          "soloTackles": "741",
-          "defensiveInterceptions": "13",
-          "qbHits": "84",
-          "tfl": "91",
-          "passDeflections": "64",
-          "sacks": "48"
-        }
-      }
-    },
-    {
-      "teamAbv": "NO",
-      "teamCity": "New Orleans",
-      "currentStreak": {
-        "result": "W",
-        "length": "2"
-      },
-      "loss": "8",
-      "teamName": "Saints",
-      "nflComLogo1": "https://static.www.nfl.com/image/private/f_auto/league/grhjkahghjkk17v43hdx",
-      "teamID": "23",
-      "tie": "0",
-      "division": "South",
-      "conferenceAbv": "NFC",
-      "pa": "327",
-      "pf": "402",
-      "espnLogo1": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/no.png",
-      "wins": "9",
-      "conference": "National Football Conference",
-      "teamStats": {
-        "Rushing": {
-          "rushYds": "1742",
-          "carries": "480",
-          "rushTD": "13"
-        },
-        "Kicking": {
-          "fgAttempts": "37",
-          "fgMade": "30",
-          "xpMade": "40",
-          "fgYds": "0",
-          "kickYards": "0",
-          "xpAttempts": "40"
-        },
-        "Passing": {
-          "passAttempts": "606",
-          "passTD": "28",
-          "passYds": "4225",
-          "int": "11",
-          "passCompletions": "406"
-        },
-        "Punting": {
-          "puntYds": "3224",
-          "punts": "75",
-          "puntsin20": "31",
-          "puntTouchBacks": "4"
-        },
-        "Receiving": {
-          "receptions": "406",
-          "recTD": "28",
-          "targets": "579",
-          "recYds": "4225"
-        },
-        "Defense": {
-          "totalTackles": "1073",
-          "fumblesLost": "7",
-          "defTD": "3",
-          "fumbles": "13",
-          "fumblesRecovered": "17",
-          "soloTackles": "653",
-          "defensiveInterceptions": "18",
-          "qbHits": "77",
-          "tfl": "70",
-          "passDeflections": "99",
-          "sacks": "34"
-        }
-      }
-    },
-    {
-      "teamAbv": "ATL",
-      "teamCity": "Atlanta",
-      "currentStreak": {
-        "result": "L",
-        "length": "2"
-      },
-      "loss": "10",
-      "teamName": "Falcons",
-      "nflComLogo1": "https://static.www.nfl.com/image/private/f_auto/league/d8m7hzpsbrl6pnqht8op",
-      "teamID": "2",
-      "tie": "0",
-      "division": "South",
-      "conferenceAbv": "NFC",
-      "pa": "373",
-      "pf": "321",
-      "espnLogo1": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/atl.png",
-      "wins": "7",
-      "conference": "National Football Conference",
-      "teamStats": {
-        "Rushing": {
-          "rushYds": "2159",
-          "carries": "522",
-          "rushTD": "14"
-        },
-        "Kicking": {
-          "fgAttempts": "37",
-          "fgMade": "32",
-          "xpMade": "27",
-          "fgYds": "0",
-          "kickYards": "0",
-          "xpAttempts": "28"
-        },
-        "Passing": {
-          "passAttempts": "530",
-          "passTD": "17",
-          "passYds": "3775",
-          "int": "17",
-          "passCompletions": "327"
-        },
-        "Punting": {
-          "puntYds": "3523",
-          "punts": "75",
-          "puntsin20": "27",
-          "puntTouchBacks": "3"
-        },
-        "Receiving": {
-          "receptions": "327",
-          "recTD": "17",
-          "targets": "508",
-          "recYds": "3775"
-        },
-        "Defense": {
-          "totalTackles": "1149",
-          "fumblesLost": "11",
-          "defTD": "1",
-          "fumbles": "24",
-          "fumblesRecovered": "18",
-          "soloTackles": "706",
-          "defensiveInterceptions": "8",
-          "qbHits": "98",
-          "tfl": "83",
-          "passDeflections": "66",
-          "sacks": "42"
-        }
-      }
-    },
-    {
-      "teamAbv": "CAR",
-      "teamCity": "Carolina",
-      "currentStreak": {
-        "result": "L",
-        "length": "3"
-      },
-      "loss": "15",
-      "teamName": "Panthers",
-      "nflComLogo1": "https://static.www.nfl.com/image/private/f_auto/league/ervfzgrqdpnc7lh5gqwq",
-      "teamID": "5",
-      "tie": "0",
-      "division": "South",
-      "conferenceAbv": "NFC",
-      "pa": "416",
-      "pf": "236",
-      "espnLogo1": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/car.png",
-      "wins": "2",
-      "conference": "National Football Conference",
-      "teamStats": {
-        "Rushing": {
-          "rushYds": "1769",
-          "carries": "445",
-          "rushTD": "7"
-        },
-        "Kicking": {
-          "fgAttempts": "30",
-          "fgMade": "25",
-          "xpMade": "17",
-          "fgYds": "0",
-          "kickYards": "0",
-          "xpAttempts": "20"
-        },
-        "Passing": {
-          "passAttempts": "586",
-          "passTD": "13",
-          "passYds": "3245",
-          "int": "10",
-          "passCompletions": "350"
-        },
-        "Punting": {
-          "puntYds": "3838",
-          "punts": "82",
-          "puntsin20": "25",
-          "puntTouchBacks": "5"
-        },
-        "Receiving": {
-          "receptions": "350",
-          "recTD": "13",
-          "targets": "534",
-          "recYds": "3245"
-        },
-        "Defense": {
-          "totalTackles": "1084",
-          "fumblesLost": "10",
-          "defTD": "3",
-          "fumbles": "24",
-          "fumblesRecovered": "14",
-          "soloTackles": "649",
-          "defensiveInterceptions": "8",
-          "qbHits": "75",
-          "tfl": "75",
-          "passDeflections": "64",
-          "sacks": "27"
-        }
-      }
-    },
-    {
-      "teamAbv": "SF",
-      "teamCity": "San Francisco",
-      "currentStreak": {
-        "result": "L",
-        "length": "1"
-      },
-      "loss": "5",
-      "teamName": "49ers",
-      "nflComLogo1": "https://res.cloudinary.com/nflleague/image/private/f_auto/league/dxibuyxbk0b9ua5ih9hn",
-      "teamID": "28",
-      "tie": "0",
-      "division": "West",
-      "conferenceAbv": "NFC",
-      "pa": "298",
-      "pf": "491",
-      "espnLogo1": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/sf.png",
-      "wins": "12",
-      "conference": "National Football Conference",
-      "teamStats": {
-        "Rushing": {
-          "rushYds": "2389",
-          "carries": "499",
-          "rushTD": "27"
-        },
-        "Kicking": {
-          "fgAttempts": "25",
-          "fgMade": "21",
-          "xpMade": "60",
-          "fgYds": "0",
-          "kickYards": "0",
-          "xpAttempts": "61"
-        },
-        "Passing": {
-          "passAttempts": "491",
-          "passTD": "33",
-          "passYds": "4577",
-          "int": "12",
-          "passCompletions": "336"
-        },
-        "Punting": {
-          "puntYds": "2480",
-          "punts": "52",
-          "puntsin20": "26",
-          "puntTouchBacks": "2"
-        },
-        "Receiving": {
-          "receptions": "336",
-          "recTD": "33",
-          "targets": "471",
-          "recYds": "4577"
-        },
-        "Defense": {
-          "totalTackles": "1076",
-          "fumblesLost": "6",
-          "defTD": "1",
-          "fumbles": "16",
-          "fumblesRecovered": "14",
-          "soloTackles": "710",
-          "defensiveInterceptions": "22",
-          "qbHits": "122",
-          "tfl": "80",
-          "passDeflections": "84",
-          "sacks": "48"
-        }
-      }
-    },
-    {
-      "teamAbv": "LAR",
-      "teamCity": "Los Angeles",
-      "currentStreak": {
-        "result": "W",
-        "length": "4"
-      },
-      "loss": "7",
-      "teamName": "Rams",
-      "nflComLogo1": "https://static.www.nfl.com/image/private/f_auto/league/ayvwcmluj2ohkdlbiegi",
-      "teamID": "19",
-      "tie": "0",
-      "division": "West",
-      "conferenceAbv": "NFC",
-      "pa": "377",
-      "pf": "404",
-      "espnLogo1": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/lar.png",
-      "wins": "10",
-      "conference": "National Football Conference",
-      "teamStats": {
-        "Rushing": {
-          "rushYds": "2045",
-          "carries": "477",
-          "rushTD": "18"
-        },
-        "Kicking": {
-          "fgAttempts": "43",
-          "fgMade": "32",
-          "xpMade": "32",
-          "fgYds": "0",
-          "kickYards": "0",
-          "xpAttempts": "37"
-        },
-        "Passing": {
-          "passAttempts": "583",
-          "passTD": "26",
-          "passYds": "4300",
-          "int": "13",
-          "passCompletions": "361"
-        },
-        "Punting": {
-          "puntYds": "3101",
-          "punts": "63",
-          "puntsin20": "20",
-          "puntTouchBacks": "7"
-        },
-        "Receiving": {
-          "receptions": "361",
-          "recTD": "26",
-          "targets": "555",
-          "recYds": "4300"
-        },
-        "Defense": {
-          "totalTackles": "1096",
-          "fumblesLost": "5",
-          "defTD": "0",
-          "fumbles": "11",
-          "fumblesRecovered": "10",
-          "soloTackles": "666",
-          "defensiveInterceptions": "10",
-          "qbHits": "91",
-          "tfl": "75",
-          "passDeflections": "76",
-          "sacks": "41"
-        }
-      }
-    },
-    {
-      "teamAbv": "SEA",
-      "teamCity": "Seattle",
-      "currentStreak": {
-        "result": "W",
-        "length": "1"
-      },
-      "loss": "8",
-      "teamName": "Seahawks",
-      "nflComLogo1": "https://res.cloudinary.com/nflleague/image/private/f_auto/league/gcytzwpjdzbpwnwxincg",
-      "teamID": "29",
-      "tie": "0",
-      "division": "West",
-      "conferenceAbv": "NFC",
-      "pa": "402",
-      "pf": "364",
-      "espnLogo1": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/sea.png",
-      "wins": "9",
-      "conference": "National Football Conference",
-      "teamStats": {
-        "Rushing": {
-          "rushYds": "1580",
-          "carries": "382",
-          "rushTD": "11"
-        },
-        "Kicking": {
-          "fgAttempts": "42",
-          "fgMade": "35",
-          "xpMade": "33",
-          "fgYds": "0",
-          "kickYards": "0",
-          "xpAttempts": "33"
-        },
-        "Passing": {
-          "passAttempts": "575",
-          "passTD": "23",
-          "passYds": "4167",
-          "int": "12",
-          "passCompletions": "371"
-        },
-        "Punting": {
-          "puntYds": "3303",
-          "punts": "66",
-          "puntsin20": "25",
-          "puntTouchBacks": "8"
-        },
-        "Receiving": {
-          "receptions": "371",
-          "recTD": "23",
-          "targets": "547",
-          "recYds": "4167"
-        },
-        "Defense": {
-          "totalTackles": "1246",
-          "fumblesLost": "5",
-          "defTD": "3",
-          "fumbles": "8",
-          "fumblesRecovered": "11",
-          "soloTackles": "778",
-          "defensiveInterceptions": "11",
-          "qbHits": "97",
-          "tfl": "99",
-          "passDeflections": "77",
-          "sacks": "47"
-        }
-      }
-    },
-    {
       "teamAbv": "ARI",
       "teamCity": "Arizona",
-      "currentStreak": {
-        "result": "L",
-        "length": "1"
-      },
-      "loss": "13",
+      "currentStreak": { "result": "", "length": "0" },
+      "loss": "0",
       "teamName": "Cardinals",
       "nflComLogo1": "https://static.www.nfl.com/image/private/f_auto/league/u9fltoslqdsyao8cpm0k",
       "teamID": "1",
       "tie": "0",
+      "byeWeeks": { "2023": ["14"], "2022": ["13"], "2024": ["11"] },
       "division": "West",
       "conferenceAbv": "NFC",
-      "pa": "455",
-      "pf": "330",
+      "pa": "0",
+      "pf": "0",
       "espnLogo1": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/ari.png",
-      "wins": "4",
-      "conference": "National Football Conference",
-      "teamStats": {
-        "Rushing": {
-          "rushYds": "2365",
-          "carries": "471",
-          "rushTD": "17"
-        },
-        "Kicking": {
-          "fgAttempts": "33",
-          "fgMade": "28",
-          "xpMade": "22",
-          "fgYds": "0",
-          "kickYards": "0",
-          "xpAttempts": "23"
-        },
-        "Passing": {
-          "passAttempts": "555",
-          "passTD": "18",
-          "passYds": "3430",
-          "int": "12",
-          "passCompletions": "355"
-        },
-        "Punting": {
-          "puntYds": "3172",
-          "punts": "64",
-          "puntsin20": "13",
-          "puntTouchBacks": "3"
-        },
-        "Receiving": {
-          "receptions": "355",
-          "recTD": "18",
-          "targets": "540",
-          "recYds": "3430"
-        },
-        "Defense": {
-          "totalTackles": "1151",
-          "fumblesLost": "6",
-          "defTD": "1",
-          "fumbles": "21",
-          "fumblesRecovered": "19",
-          "soloTackles": "731",
-          "defensiveInterceptions": "11",
-          "qbHits": "59",
-          "tfl": "76",
-          "passDeflections": "66",
-          "sacks": "33"
-        }
-      }
+      "wins": "0",
+      "conference": "National Football Conference"
+    },
+    {
+      "teamAbv": "ATL",
+      "teamCity": "Atlanta",
+      "currentStreak": { "result": "", "length": "0" },
+      "loss": "0",
+      "teamName": "Falcons",
+      "nflComLogo1": "https://static.www.nfl.com/image/private/f_auto/league/d8m7hzpsbrl6pnqht8op",
+      "teamID": "2",
+      "tie": "0",
+      "byeWeeks": { "2023": ["11"], "2022": ["14"], "2024": ["12"] },
+      "division": "South",
+      "conferenceAbv": "NFC",
+      "pa": "0",
+      "pf": "0",
+      "espnLogo1": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/atl.png",
+      "wins": "0",
+      "conference": "National Football Conference"
+    },
+    {
+      "teamAbv": "BAL",
+      "teamCity": "Baltimore",
+      "currentStreak": { "result": "", "length": "0" },
+      "loss": "0",
+      "teamName": "Ravens",
+      "nflComLogo1": "https://res.cloudinary.com/nflleague/image/private/f_auto/league/ucsdijmddsqcj1i9tddd",
+      "teamID": "3",
+      "tie": "0",
+      "byeWeeks": { "2023": ["13"], "2022": ["10"], "2024": ["14"] },
+      "division": "North",
+      "conferenceAbv": "AFC",
+      "pa": "0",
+      "pf": "0",
+      "espnLogo1": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/bal.png",
+      "wins": "0",
+      "conference": "American Football Conference"
+    },
+    {
+      "teamAbv": "BUF",
+      "teamCity": "Buffalo",
+      "currentStreak": { "result": "", "length": "0" },
+      "loss": "0",
+      "teamName": "Bills",
+      "nflComLogo1": "https://res.cloudinary.com/nflleague/image/private/f_auto/league/giphcy6ie9mxbnldntsf",
+      "teamID": "4",
+      "tie": "0",
+      "byeWeeks": { "2023": ["13"], "2022": ["7"], "2024": ["12"] },
+      "division": "East",
+      "conferenceAbv": "AFC",
+      "pa": "0",
+      "pf": "0",
+      "espnLogo1": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/buf.png",
+      "wins": "0",
+      "conference": "American Football Conference"
+    },
+    {
+      "teamAbv": "CAR",
+      "teamCity": "Carolina",
+      "currentStreak": { "result": "", "length": "0" },
+      "loss": "0",
+      "teamName": "Panthers",
+      "nflComLogo1": "https://static.www.nfl.com/image/private/f_auto/league/ervfzgrqdpnc7lh5gqwq",
+      "teamID": "5",
+      "tie": "0",
+      "byeWeeks": { "2023": ["7"], "2022": ["13"], "2024": ["11"] },
+      "division": "South",
+      "conferenceAbv": "NFC",
+      "pa": "0",
+      "pf": "0",
+      "espnLogo1": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/car.png",
+      "wins": "0",
+      "conference": "National Football Conference"
+    },
+    {
+      "teamAbv": "CHI",
+      "teamCity": "Chicago",
+      "currentStreak": { "result": "", "length": "0" },
+      "loss": "0",
+      "teamName": "Bears",
+      "nflComLogo1": "https://static.www.nfl.com/image/private/f_auto/league/wb3ehpt7xhkstyaxwjl1",
+      "teamID": "6",
+      "tie": "0",
+      "byeWeeks": { "2023": ["13"], "2022": ["14"], "2024": ["7"] },
+      "division": "North",
+      "conferenceAbv": "NFC",
+      "pa": "0",
+      "pf": "0",
+      "espnLogo1": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/chi.png",
+      "wins": "0",
+      "conference": "National Football Conference"
+    },
+    {
+      "teamAbv": "CIN",
+      "teamCity": "Cincinnati",
+      "currentStreak": { "result": "", "length": "0" },
+      "loss": "0",
+      "teamName": "Bengals",
+      "nflComLogo1": "https://res.cloudinary.com/nflleague/image/private/f_auto/league/okxpteoliyayufypqalq",
+      "teamID": "7",
+      "tie": "0",
+      "byeWeeks": { "2023": ["7"], "2022": ["10"], "2024": ["12"] },
+      "division": "North",
+      "conferenceAbv": "AFC",
+      "pa": "0",
+      "pf": "0",
+      "espnLogo1": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/cin.png",
+      "wins": "0",
+      "conference": "American Football Conference"
+    },
+    {
+      "teamAbv": "CLE",
+      "teamCity": "Cleveland",
+      "currentStreak": { "result": "", "length": "0" },
+      "loss": "0",
+      "teamName": "Browns",
+      "nflComLogo1": "https://static.www.nfl.com/image/private/f_auto/league/fgbn8acp4opvyxk13dcy",
+      "teamID": "8",
+      "tie": "0",
+      "byeWeeks": { "2023": ["5"], "2022": ["9"], "2024": ["10"] },
+      "division": "North",
+      "conferenceAbv": "AFC",
+      "pa": "0",
+      "pf": "0",
+      "espnLogo1": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/cle.png",
+      "wins": "0",
+      "conference": "American Football Conference"
+    },
+    {
+      "teamAbv": "DAL",
+      "teamCity": "Dallas",
+      "currentStreak": { "result": "", "length": "0" },
+      "loss": "0",
+      "teamName": "Cowboys",
+      "nflComLogo1": "https://static.www.nfl.com/image/private/f_auto/league/ieid8hoygzdlmzo0tnf6",
+      "teamID": "9",
+      "tie": "0",
+      "byeWeeks": { "2023": ["7"], "2022": ["9"], "2024": ["7"] },
+      "division": "East",
+      "conferenceAbv": "NFC",
+      "pa": "0",
+      "pf": "0",
+      "espnLogo1": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/dal.png",
+      "wins": "0",
+      "conference": "National Football Conference"
+    },
+    {
+      "teamAbv": "DEN",
+      "teamCity": "Denver",
+      "currentStreak": { "result": "", "length": "0" },
+      "loss": "0",
+      "teamName": "Broncos",
+      "nflComLogo1": "https://res.cloudinary.com/nflleague/image/private/f_auto/league/t0p7m5cjdjy18rnzzqbx",
+      "teamID": "10",
+      "tie": "0",
+      "byeWeeks": { "2023": ["9"], "2022": ["9"], "2024": ["14"] },
+      "division": "West",
+      "conferenceAbv": "AFC",
+      "pa": "0",
+      "pf": "0",
+      "espnLogo1": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/den.png",
+      "wins": "0",
+      "conference": "American Football Conference"
+    },
+    {
+      "teamAbv": "DET",
+      "teamCity": "Detroit",
+      "currentStreak": { "result": "", "length": "0" },
+      "loss": "0",
+      "teamName": "Lions",
+      "nflComLogo1": "https://res.cloudinary.com/nflleague/image/private/f_auto/league/ocvxwnapdvwevupe4tpr",
+      "teamID": "11",
+      "tie": "0",
+      "byeWeeks": { "2023": ["9"], "2022": ["6"], "2024": ["5"] },
+      "division": "North",
+      "conferenceAbv": "NFC",
+      "pa": "0",
+      "pf": "0",
+      "espnLogo1": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/det.png",
+      "wins": "0",
+      "conference": "National Football Conference"
+    },
+    {
+      "teamAbv": "GB",
+      "teamCity": "Green Bay",
+      "currentStreak": { "result": "", "length": "0" },
+      "loss": "0",
+      "teamName": "Packers",
+      "nflComLogo1": "https://res.cloudinary.com/nflleague/image/private/f_auto/league/gppfvr7n8gljgjaqux2x",
+      "teamID": "12",
+      "tie": "0",
+      "byeWeeks": { "2023": ["6"], "2022": ["14"], "2024": ["10"] },
+      "division": "North",
+      "conferenceAbv": "NFC",
+      "pa": "0",
+      "pf": "0",
+      "espnLogo1": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/gb.png",
+      "wins": "0",
+      "conference": "National Football Conference"
+    },
+    {
+      "teamAbv": "HOU",
+      "teamCity": "Houston",
+      "currentStreak": { "result": "", "length": "0" },
+      "loss": "0",
+      "teamName": "Texans",
+      "nflComLogo1": "https://static.www.nfl.com/image/private/f_auto/league/bpx88i8nw4nnabuq0oob",
+      "teamID": "13",
+      "tie": "0",
+      "byeWeeks": { "2023": ["7"], "2022": ["6"], "2024": ["14"] },
+      "division": "South",
+      "conferenceAbv": "AFC",
+      "pa": "0",
+      "pf": "0",
+      "espnLogo1": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/hou.png",
+      "wins": "0",
+      "conference": "American Football Conference"
+    },
+    {
+      "teamAbv": "IND",
+      "teamCity": "Indianapolis",
+      "currentStreak": { "result": "", "length": "0" },
+      "loss": "0",
+      "teamName": "Colts",
+      "nflComLogo1": "https://static.www.nfl.com/image/private/f_auto/league/ketwqeuschqzjsllbid5",
+      "teamID": "14",
+      "tie": "0",
+      "byeWeeks": { "2023": ["11"], "2022": ["14"], "2024": ["14"] },
+      "division": "South",
+      "conferenceAbv": "AFC",
+      "pa": "0",
+      "pf": "0",
+      "espnLogo1": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/ind.png",
+      "wins": "0",
+      "conference": "American Football Conference"
+    },
+    {
+      "teamAbv": "JAX",
+      "teamCity": "Jacksonville",
+      "currentStreak": { "result": "", "length": "0" },
+      "loss": "0",
+      "teamName": "Jaguars",
+      "nflComLogo1": "https://res.cloudinary.com/nflleague/image/private/f_auto/league/qycbib6ivrm9dqaexryk",
+      "teamID": "15",
+      "tie": "0",
+      "byeWeeks": { "2023": ["9"], "2022": ["11"], "2024": ["12"] },
+      "division": "South",
+      "conferenceAbv": "AFC",
+      "pa": "0",
+      "pf": "0",
+      "espnLogo1": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/jax.png",
+      "wins": "0",
+      "conference": "American Football Conference"
+    },
+    {
+      "teamAbv": "KC",
+      "teamCity": "Kansas City",
+      "currentStreak": { "result": "", "length": "0" },
+      "loss": "0",
+      "teamName": "Chiefs",
+      "nflComLogo1": "https://res.cloudinary.com/nflleague/image/private/f_auto/league/ujshjqvmnxce8m4obmvs",
+      "teamID": "16",
+      "tie": "0",
+      "byeWeeks": { "2023": ["10"], "2022": ["8"], "2024": ["6"] },
+      "division": "West",
+      "conferenceAbv": "AFC",
+      "pa": "0",
+      "pf": "0",
+      "espnLogo1": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/kc.png",
+      "wins": "0",
+      "conference": "American Football Conference"
+    },
+    {
+      "teamAbv": "LV",
+      "teamCity": "Las Vegas",
+      "currentStreak": { "result": "", "length": "0" },
+      "loss": "0",
+      "teamName": "Raiders",
+      "nflComLogo1": "https://static.www.nfl.com/image/private/f_auto/league/gzcojbzcyjgubgyb6xf2",
+      "teamID": "17",
+      "tie": "0",
+      "byeWeeks": { "2023": ["13"], "2022": ["6"], "2024": ["10"] },
+      "division": "West",
+      "conferenceAbv": "AFC",
+      "pa": "0",
+      "pf": "0",
+      "espnLogo1": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/lv.png",
+      "wins": "0",
+      "conference": "American Football Conference"
+    },
+    {
+      "teamAbv": "LAC",
+      "teamCity": "Los Angeles",
+      "currentStreak": { "result": "", "length": "0" },
+      "loss": "0",
+      "teamName": "Chargers",
+      "nflComLogo1": "https://static.www.nfl.com/image/private/f_auto/league/dhfidtn8jrumakbogeu4",
+      "teamID": "18",
+      "tie": "0",
+      "byeWeeks": { "2023": ["5"], "2022": ["8"], "2024": ["5"] },
+      "division": "West",
+      "conferenceAbv": "AFC",
+      "pa": "0",
+      "pf": "0",
+      "espnLogo1": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/lac.png",
+      "wins": "0",
+      "conference": "American Football Conference"
+    },
+    {
+      "teamAbv": "LAR",
+      "teamCity": "Los Angeles",
+      "currentStreak": { "result": "", "length": "0" },
+      "loss": "0",
+      "teamName": "Rams",
+      "nflComLogo1": "https://static.www.nfl.com/image/private/f_auto/league/ayvwcmluj2ohkdlbiegi",
+      "teamID": "19",
+      "tie": "0",
+      "byeWeeks": { "2023": ["10"], "2022": ["7"], "2024": ["6"] },
+      "division": "West",
+      "conferenceAbv": "NFC",
+      "pa": "0",
+      "pf": "0",
+      "espnLogo1": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/lar.png",
+      "wins": "0",
+      "conference": "National Football Conference"
+    },
+    {
+      "teamAbv": "MIA",
+      "teamCity": "Miami",
+      "currentStreak": { "result": "", "length": "0" },
+      "loss": "0",
+      "teamName": "Dolphins",
+      "nflComLogo1": "https://res.cloudinary.com/nflleague/image/private/f_auto/league/lits6p8ycthy9to70bnt",
+      "teamID": "20",
+      "tie": "0",
+      "byeWeeks": { "2023": ["10"], "2022": ["11"], "2024": ["6"] },
+      "division": "East",
+      "conferenceAbv": "AFC",
+      "pa": "0",
+      "pf": "0",
+      "espnLogo1": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/mia.png",
+      "wins": "0",
+      "conference": "American Football Conference"
+    },
+    {
+      "teamAbv": "MIN",
+      "teamCity": "Minnesota",
+      "currentStreak": { "result": "", "length": "0" },
+      "loss": "0",
+      "teamName": "Vikings",
+      "nflComLogo1": "https://res.cloudinary.com/nflleague/image/private/f_auto/league/teguylrnqqmfcwxvcmmz",
+      "teamID": "21",
+      "tie": "0",
+      "byeWeeks": { "2023": ["13"], "2022": ["7"], "2024": ["6"] },
+      "division": "North",
+      "conferenceAbv": "NFC",
+      "pa": "0",
+      "pf": "0",
+      "espnLogo1": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/min.png",
+      "wins": "0",
+      "conference": "National Football Conference"
+    },
+    {
+      "teamAbv": "NE",
+      "teamCity": "New England",
+      "currentStreak": { "result": "", "length": "0" },
+      "loss": "0",
+      "teamName": "Patriots",
+      "nflComLogo1": "https://res.cloudinary.com/nflleague/image/private/f_auto/league/moyfxx3dq5pio4aiftnc",
+      "teamID": "22",
+      "tie": "0",
+      "byeWeeks": { "2023": ["11"], "2022": ["10"], "2024": ["14"] },
+      "division": "East",
+      "conferenceAbv": "AFC",
+      "pa": "0",
+      "pf": "0",
+      "espnLogo1": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/ne.png",
+      "wins": "0",
+      "conference": "American Football Conference"
+    },
+    {
+      "teamAbv": "NO",
+      "teamCity": "New Orleans",
+      "currentStreak": { "result": "", "length": "0" },
+      "loss": "0",
+      "teamName": "Saints",
+      "nflComLogo1": "https://static.www.nfl.com/image/private/f_auto/league/grhjkahghjkk17v43hdx",
+      "teamID": "23",
+      "tie": "0",
+      "byeWeeks": { "2023": ["11"], "2022": ["14"], "2024": ["12"] },
+      "division": "South",
+      "conferenceAbv": "NFC",
+      "pa": "0",
+      "pf": "0",
+      "espnLogo1": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/no.png",
+      "wins": "0",
+      "conference": "National Football Conference"
+    },
+    {
+      "teamAbv": "NYG",
+      "teamCity": "New York",
+      "currentStreak": { "result": "", "length": "0" },
+      "loss": "0",
+      "teamName": "Giants",
+      "nflComLogo1": "https://res.cloudinary.com/nflleague/image/private/f_auto/league/t6mhdmgizi6qhndh8b9p",
+      "teamID": "24",
+      "tie": "0",
+      "byeWeeks": { "2023": ["13"], "2022": ["9"], "2024": ["11"] },
+      "division": "East",
+      "conferenceAbv": "NFC",
+      "pa": "0",
+      "pf": "0",
+      "espnLogo1": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/nyg.png",
+      "wins": "0",
+      "conference": "National Football Conference"
+    },
+    {
+      "teamAbv": "NYJ",
+      "teamCity": "New York",
+      "currentStreak": { "result": "", "length": "0" },
+      "loss": "0",
+      "teamName": "Jets",
+      "nflComLogo1": "https://static.www.nfl.com/image/private/f_auto/league/ekijosiae96gektbo4iw",
+      "teamID": "25",
+      "tie": "0",
+      "byeWeeks": { "2023": ["7"], "2022": ["10"], "2024": ["12"] },
+      "division": "East",
+      "conferenceAbv": "AFC",
+      "pa": "0",
+      "pf": "0",
+      "espnLogo1": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/nyj.png",
+      "wins": "0",
+      "conference": "American Football Conference"
+    },
+    {
+      "teamAbv": "PIT",
+      "teamCity": "Pittsburgh",
+      "currentStreak": { "result": "", "length": "0" },
+      "loss": "0",
+      "teamName": "Steelers",
+      "nflComLogo1": "https://res.cloudinary.com/nflleague/image/private/f_auto/league/xujg9t3t4u5nmjgr54wx",
+      "teamID": "26",
+      "tie": "0",
+      "byeWeeks": { "2023": ["6"], "2022": ["9"], "2024": ["9"] },
+      "division": "North",
+      "conferenceAbv": "AFC",
+      "pa": "0",
+      "pf": "0",
+      "espnLogo1": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/pit.png",
+      "wins": "0",
+      "conference": "American Football Conference"
+    },
+    {
+      "teamAbv": "PHI",
+      "teamCity": "Philadelphia",
+      "currentStreak": { "result": "", "length": "0" },
+      "loss": "0",
+      "teamName": "Eagles",
+      "nflComLogo1": "https://res.cloudinary.com/nflleague/image/private/f_auto/league/puhrqgj71gobgdkdo6uq",
+      "teamID": "27",
+      "tie": "0",
+      "byeWeeks": { "2023": ["10"], "2022": ["7"], "2024": ["5"] },
+      "division": "East",
+      "conferenceAbv": "NFC",
+      "pa": "0",
+      "pf": "0",
+      "espnLogo1": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/phi.png",
+      "wins": "0",
+      "conference": "National Football Conference"
+    },
+    {
+      "teamAbv": "SF",
+      "teamCity": "San Francisco",
+      "currentStreak": { "result": "", "length": "0" },
+      "loss": "0",
+      "teamName": "49ers",
+      "nflComLogo1": "https://res.cloudinary.com/nflleague/image/private/f_auto/league/dxibuyxbk0b9ua5ih9hn",
+      "teamID": "28",
+      "tie": "0",
+      "byeWeeks": { "2023": ["9"], "2022": ["9"], "2024": ["9"] },
+      "division": "West",
+      "conferenceAbv": "NFC",
+      "pa": "0",
+      "pf": "0",
+      "espnLogo1": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/sf.png",
+      "wins": "0",
+      "conference": "National Football Conference"
+    },
+    {
+      "teamAbv": "SEA",
+      "teamCity": "Seattle",
+      "currentStreak": { "result": "", "length": "0" },
+      "loss": "0",
+      "teamName": "Seahawks",
+      "nflComLogo1": "https://res.cloudinary.com/nflleague/image/private/f_auto/league/gcytzwpjdzbpwnwxincg",
+      "teamID": "29",
+      "tie": "0",
+      "byeWeeks": { "2023": ["5"], "2022": ["11"], "2024": ["10"] },
+      "division": "West",
+      "conferenceAbv": "NFC",
+      "pa": "0",
+      "pf": "0",
+      "espnLogo1": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/sea.png",
+      "wins": "0",
+      "conference": "National Football Conference"
+    },
+    {
+      "teamAbv": "TB",
+      "teamCity": "Tampa Bay",
+      "currentStreak": { "result": "", "length": "0" },
+      "loss": "0",
+      "teamName": "Buccaneers",
+      "nflComLogo1": "https://static.www.nfl.com/image/private/f_auto/league/v8uqiualryypwqgvwcih",
+      "teamID": "30",
+      "tie": "0",
+      "byeWeeks": { "2023": ["5"], "2022": ["11"], "2024": ["11"] },
+      "division": "South",
+      "conferenceAbv": "NFC",
+      "pa": "0",
+      "pf": "0",
+      "espnLogo1": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/tb.png",
+      "wins": "0",
+      "conference": "National Football Conference"
+    },
+    {
+      "teamAbv": "TEN",
+      "teamCity": "Tennessee",
+      "currentStreak": { "result": "", "length": "0" },
+      "loss": "0",
+      "teamName": "Titans",
+      "nflComLogo1": "https://static.www.nfl.com/image/private/f_auto/league/pln44vuzugjgipyidsre",
+      "teamID": "31",
+      "tie": "0",
+      "byeWeeks": { "2023": ["7"], "2022": ["6"], "2024": ["5"] },
+      "division": "South",
+      "conferenceAbv": "AFC",
+      "pa": "0",
+      "pf": "0",
+      "espnLogo1": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/ten.png",
+      "wins": "0",
+      "conference": "American Football Conference"
+    },
+    {
+      "teamAbv": "WSH",
+      "teamCity": "Washington",
+      "currentStreak": { "result": "", "length": "0" },
+      "loss": "0",
+      "teamName": "Commanders",
+      "nflComLogo1": "https://static.www.nfl.com/image/private/f_auto/league/xymxwrxtyj9fhaemhdyd",
+      "teamID": "32",
+      "tie": "0",
+      "byeWeeks": { "2023": ["14"], "2022": ["14"], "2024": ["14"] },
+      "division": "East",
+      "conferenceAbv": "NFC",
+      "pa": "0",
+      "pf": "0",
+      "espnLogo1": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/wsh.png",
+      "wins": "0",
+      "conference": "National Football Conference"
     }
   ]
 }
